@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "268539994636",
+    "project_id": "to-do-jumawan",
+    "storage_bucket": "to-do-jumawan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268539994636:android:0aadb20727c8666065c429",
+        "android_client_info": {
+          "package_name": "com.example.todo_app_midterm_jumawan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268539994636-1evvt68eg68imm5mt01f5o23isdf58q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlEgby4OXpKCZmveNALsgW6bDU-Iwrwds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268539994636-1evvt68eg68imm5mt01f5o23isdf58q4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
